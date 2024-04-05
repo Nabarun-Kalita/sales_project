@@ -1,5 +1,6 @@
 # :octocat:Dashboard👇
-![Screenshot 2023-07-28 152259](https://github.com/yashdoshi12/Sales_report_using_PowerBi/assets/39629707/23e117f3-fd1d-4c0b-a0a7-391795d3ca79)
+
+![Screenshot (367)](https://github.com/nabarunk7/sales_project/assets/130929356/43ff3f27-4307-44e2-8261-ef01da0ac9a0)
 
 <hr />
 <br />
